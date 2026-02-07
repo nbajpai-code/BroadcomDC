@@ -23,6 +23,11 @@ This repository contains comprehensive resources, documentation links, and produ
 *   **[Security](SECURITY.md)**
     *   **Symantec Data Center Security:** Server Advanced, Critical System Protection.
 
+*   **[Network Observability](OBSERVABILITY.md)**
+    *   **AppNeta:** Digital Experience Monitoring.
+    *   **DX NetOps:** Performance/Fault Management.
+    *   **BroadView:** Silicon-level Telemetry.
+
 *   **[Certifications & Training](CERTIFICATIONS.md)**
     *   **Official Programs:** Broadcom Technical Specialist (BTS), Symantec SCS, VMware VCP/VCAP.
     *   **Training:** YouTube Channels, Udemy Courses.
