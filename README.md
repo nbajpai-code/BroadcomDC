@@ -14,6 +14,12 @@ This repository contains comprehensive resources, documentation links, and produ
 *   **[VMware Cloud Foundation](VMWARE.md)**
     *   **Core:** vSphere, vSAN, NSX.
     *   **Management:** Aria (vRealize).
+*   **[Identity & Access Management](IDENTITY.md)**
+    *   **Symantec IGA:** Identity Governance & Administration.
+    *   **Symantec PAM:** Privileged Access Management.
+*   **[Mainframe & Enterprise Software](SOFTWARE.md)**
+    *   **AIOps:** WatchTower, DX Operational Intelligence.
+    *   **Automation:** AutoSys, ESP Workload Automation.
 *   **[Security](SECURITY.md)**
     *   **Symantec Data Center Security:** Server Advanced, Critical System Protection.
 
