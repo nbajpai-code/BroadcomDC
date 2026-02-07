@@ -23,7 +23,12 @@ This repository contains comprehensive resources, documentation links, and produ
 *   **[Security](SECURITY.md)**
     *   **Symantec Data Center Security:** Server Advanced, Critical System Protection.
 
+*   **[Certifications & Training](CERTIFICATIONS.md)**
+    *   **Official Programs:** Broadcom Technical Specialist (BTS), Symantec SCS, VMware VCP/VCAP.
+    *   **Training:** YouTube Channels, Udemy Courses.
+
 ## Key Official Resources
+
 
 *   [Broadcom Data Center Solutions Main Page](https://www.broadcom.com/solutions/data-center)
 *   [Broadcom Support Portal](https://www.broadcom.com/support)
